@@ -27,10 +27,10 @@ Quando uma inconformidade é detectada:
 Os artefatos de engenharia de software desenvolvidos para esta Sprint podem ser consultados abaixo e na pasta `/Diagramas`:
 
 ### 📌 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](Diagramas/Diagrama de Casos de Uso.jpg)
+<img src="https://github.com/ArthurGouvea/Eng-De-Software-Sprint1/blob/main/Diagramas/Diagrama%20de%20Casos%20de%20Uso.jpg" alt="Diagrama de Casos de Uso" width="100%">
 
 ### 📌 Diagrama de Atividades
-![Diagrama de Atividades](Diagramas/Diagrama de Atividades.jpg)
+<img src="https://github.com/ArthurGouvea/Eng-De-Software-Sprint1/blob/main/Diagramas/Diagrama%20de%20Atividades.jpg" width="100%">
 
 ### 📌 Diagrama de Classes
-![Diagrama de Classes](Diagramas/Diagrama de Classes.jpg)
+<img src="https://github.com/ArthurGouvea/Eng-De-Software-Sprint1/blob/main/Diagramas/Diagrama%20de%20Classes.jpg" alt="Diagrama de Classes" width="100%">
