@@ -27,10 +27,10 @@ Quando uma inconformidade é detectada:
 Os artefatos de engenharia de software desenvolvidos para esta Sprint podem ser consultados abaixo e na pasta `/Diagramas`:
 
 ### 📌 Diagrama de Casos de Uso
-![Diagrama de Casos de Uso](./Diagramas/Diagrama de Caso de Uso.jpg)
+![Diagrama de Casos de Uso](Diagramas/Diagrama de Casos de Uso.jpg)
 
 ### 📌 Diagrama de Atividades
-![Diagrama de Atividades](./Diagramas/Diagrama de Atividades.jpg)
+![Diagrama de Atividades](Diagramas/Diagrama de Atividades.jpg)
 
 ### 📌 Diagrama de Classes
-![Diagrama de Classes](./Diagramas/Diagrama de Classes.jpg)
+![Diagrama de Classes](Diagramas/Diagrama de Classes.jpg)
