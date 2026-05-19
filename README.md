@@ -23,8 +23,14 @@ Quando uma inconformidade é detectada:
 * **PostgreSQL / Oracle SQL**: Banco de dados relacional utilizado para persistência segura e estruturada dos logs de infração, garantindo integridade dos dados para relatórios de conformidade.
 
 ## 🗺️ Arquitetura da Solução (Modelagem UML)
-Os artefatos de engenharia de software desenvolvidos para esta Sprint podem ser consultados na pasta `/diagramas`:
 
-* **[Diagrama de Casos de Uso](./diagramas/Diagrama de Casos de Uso.jpg):** Mapeia a interação entre os Operadores, Supervisores de Segurança e o motor automático de IA.
-* **[Diagrama de Atividades](./diagramas/Diagrama de Atividades.jpg):** Descreve a lógica sequencial do fluxo de captura, processamento de imagem, tomada de decisão e disparo de alertas.
-* **[Diagrama de Classes](./diagramas/Diagrama de Classes.jpg):** Apresenta a estrutura estática dos objetos do sistema (Operador, Maquina, SistemaIA, Infracao, Alerta) e suas respectivas regras de associação.
+Os artefatos de engenharia de software desenvolvidos para esta Sprint podem ser consultados abaixo e na pasta `/Diagramas`:
+
+### 📌 Diagrama de Casos de Uso
+![Diagrama de Casos de Uso](./Diagramas/Diagrama de Casos de Uso.jpg)
+
+### 📌 Diagrama de Atividades
+![Diagrama de Atividades](./Diagramas/Diagrama de Atividades.jpg)
+
+### 📌 Diagrama de Classes
+![Diagrama de Classes](./Diagramas/Diagrama de Classes.jpg)
